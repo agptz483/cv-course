@@ -1,0 +1,22 @@
+# 虚拟环境
+.venv-basic/
+.venv-dl/
+.venv-ml/
+venv/
+env/
+ENV/
+
+# VS Code 配置
+.vscode/
+*.code-workspace
+
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 其他系统文件
+.DS_Store
+Thumbs.db
