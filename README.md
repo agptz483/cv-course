@@ -22,6 +22,6 @@ pip freeze > requirements-basic.txt
 cv-course/  
 ├── lab/                             # 实验作业  
 ├── OpenCV-Python-Notes/             # OpenCV库学习笔记  
-├── linux&git&vscode                 # 相关经验分享  
+├── linux&git&vscode.md              # 相关经验分享  
 └── requirements.txt                 # 依赖清单  
 ```  
