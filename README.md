@@ -17,7 +17,7 @@ pip freeze > requirements-basic.txt
 ```
 
 ---
-## 📁 项目结构  
+## 📁 Project Structure  
 ```  
 cv-course/  
 ├── lab/                             # 实验作业  
