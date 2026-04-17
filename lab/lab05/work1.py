@@ -52,5 +52,5 @@ for i in range(4):
     plt.title(titles[i])
     plt.axis('off')
 plt.tight_layout()
+plt.savefig('lab05_work1.jpg', dpi=300, bbox_inches='tight')
 plt.show()
-plt.savefig('lab05_work1.jpg')
