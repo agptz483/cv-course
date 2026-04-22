@@ -1,7 +1,5 @@
 # 👁️ CV-COURSE WORK
 
-> 2025~2026学年第二学期 · 计算机视觉课程
-
 本仓库用于提交我的计算机视觉课程作业与项目成果，以及笔记分享与学习细节。（除非不会做 🤡）  
 其中干净整洁的纯作业文件可以跳转查看：
 🔗 [**2023101137-Automation-Tianzi_Peng**](https://github.com/jnu-cv-lab/2023101137-Automation-Tianzi_Peng)  
